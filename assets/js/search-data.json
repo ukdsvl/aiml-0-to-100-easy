@@ -2,119 +2,119 @@
     "doc": "Classical Machine Learning",
     "title": "Classical Machine Learning",
     "content": "This section covers foundational and advanced classical machine learning algorithms, mathematical formulations, optimization techniques, and evaluation frameworks. ",
-    "url": "/Classical%20Machine%20Learning/",
+    "url": "/aiml-0-to-100-easy/Classical%20Machine%20Learning/",
     
     "relUrl": "/Classical%20Machine%20Learning/"
   },"1": {
     "doc": "Classical Machine Learning",
     "title": "Key Focus Areas",
     "content": ". | Supervised Learning: Linear/Logistic Regression, Support Vector Machines (SVMs), Decision Trees, Ensemble Methods (Random Forests, Gradient Boosting). | Unsupervised Learning: K-Means Clustering, PCA, Dimensionality Reduction. | Model Evaluation &amp; Validation: Bias-Variance tradeoff, cross-validation, evaluation metrics. | . ",
-    "url": "/Classical%20Machine%20Learning/#key-focus-areas",
+    "url": "/aiml-0-to-100-easy/Classical%20Machine%20Learning/#key-focus-areas",
     
     "relUrl": "/Classical%20Machine%20Learning/#key-focus-areas"
   },"2": {
     "doc": "Natural Language Processing",
     "title": "Natural Language Processing",
     "content": "This section documents text representation, sequence modeling, attention mechanisms, and Large Language Model (LLM) architectures. ",
-    "url": "/Natural%20Language%20Processing/",
+    "url": "/aiml-0-to-100-easy/Natural%20Language%20Processing/",
     
     "relUrl": "/Natural%20Language%20Processing/"
   },"3": {
     "doc": "Natural Language Processing",
     "title": "Key Focus Areas",
     "content": ". | Text Representations: Tokenization, Word2Vec, GloVe, subword embeddings. | Sequence Modeling: Encoder-Decoder models, attention mechanisms, Transformer architecture. | LLMs &amp; Fine-Tuning: Prompt engineering, PEFT/LoRA, instruction tuning, and alignment techniques. | . ",
-    "url": "/Natural%20Language%20Processing/#key-focus-areas",
+    "url": "/aiml-0-to-100-easy/Natural%20Language%20Processing/#key-focus-areas",
     
     "relUrl": "/Natural%20Language%20Processing/#key-focus-areas"
   },"4": {
     "doc": "Computer Vision",
     "title": "Computer Vision",
     "content": "This section covers visual perception models, image processing fundamentals, spatial transformations, and modern deep-learning-based vision pipelines. ",
-    "url": "/Computer%20Vision/",
+    "url": "/aiml-0-to-100-easy/Computer%20Vision/",
     
     "relUrl": "/Computer%20Vision/"
   },"5": {
     "doc": "Computer Vision",
     "title": "Key Focus Areas",
     "content": ". | Core Operations: Image filtering, convolutions, feature extraction. | High-Level Tasks: Image classification, object detection (YOLO, R-CNN), semantic and instance segmentation. | Representation Learning: Vision Transformers (ViTs), contrastive learning, and self-supervised visual models. | . ",
-    "url": "/Computer%20Vision/#key-focus-areas",
+    "url": "/aiml-0-to-100-easy/Computer%20Vision/#key-focus-areas",
     
     "relUrl": "/Computer%20Vision/#key-focus-areas"
   },"6": {
     "doc": "Recommender Systems",
     "title": "Recommender Systems",
     "content": "This section focuses on personalized ranking models, collaborative filtering, candidate generation, and industrial-scale recommendation pipelines. ",
-    "url": "/Recommender%20Systems/",
+    "url": "/aiml-0-to-100-easy/Recommender%20Systems/",
     
     "relUrl": "/Recommender%20Systems/"
   },"7": {
     "doc": "Recommender Systems",
     "title": "Key Focus Areas",
     "content": ". | Collaborative &amp; Content-Based Filtering: Matrix factorization, SVD, implicit feedback models. | Deep Learning for RecSys: Two-tower models, sequential recommendation, graph neural networks for recommendations. | Serving &amp; Evaluation: Retrieval vs. ranking stages, offline metrics (NDCG, MAP), online AB testing metrics. | . ",
-    "url": "/Recommender%20Systems/#key-focus-areas",
+    "url": "/aiml-0-to-100-easy/Recommender%20Systems/#key-focus-areas",
     
     "relUrl": "/Recommender%20Systems/#key-focus-areas"
   },"8": {
     "doc": "ML Engineering",
     "title": "ML Engineering",
     "content": "This section covers operational practices (MLOps), deployment infrastructure, model monitoring, and software engineering best practices for ML codebases. ",
-    "url": "/ML%20Engineering/",
+    "url": "/aiml-0-to-100-easy/ML%20Engineering/",
     
     "relUrl": "/ML%20Engineering/"
   },"9": {
     "doc": "ML Engineering",
     "title": "Key Focus Areas",
     "content": ". | MLOps &amp; Orchestration: CI/CD for machine learning, pipeline orchestration (Kubeflow, Airflow). | Model Deployment: Containerization (Docker), Triton Inference Server, ONNX runtime optimization, edge deployment. | Monitoring &amp; Governance: Data quality monitoring, concept drift detection, model explainability. | . ",
-    "url": "/ML%20Engineering/#key-focus-areas",
+    "url": "/aiml-0-to-100-easy/ML%20Engineering/#key-focus-areas",
     
     "relUrl": "/ML%20Engineering/#key-focus-areas"
   },"10": {
     "doc": "Deep Learning",
     "title": "Deep Learning",
     "content": "This section explores neural network architectures, training dynamics, loss landscapes, and optimization algorithms from first principles. ",
-    "url": "/Deep%20Learning/",
+    "url": "/aiml-0-to-100-easy/Deep%20Learning/",
     
     "relUrl": "/Deep%20Learning/"
   },"11": {
     "doc": "Deep Learning",
     "title": "Key Focus Areas",
     "content": ". | Core Architecture: Multi-Layer Perceptrons (MLPs), backpropagation, activation functions. | Optimization &amp; Regularization: Gradient descent variants, batch normalization, dropout, weight decay. | Advanced Topologies: Recurrent Neural Networks (RNNs), LSTMs, Transformers, and modern generative architectures. | . ",
-    "url": "/Deep%20Learning/#key-focus-areas",
+    "url": "/aiml-0-to-100-easy/Deep%20Learning/#key-focus-areas",
     
     "relUrl": "/Deep%20Learning/#key-focus-areas"
   },"12": {
     "doc": "ML System Design",
     "title": "ML System Design",
     "content": "This section translates theoretical machine learning models into robust, scalable, and production-ready architectures for real-world use cases. ",
-    "url": "/ML%20System%20Design/",
+    "url": "/aiml-0-to-100-easy/ML%20System%20Design/",
     
     "relUrl": "/ML%20System%20Design/"
   },"13": {
     "doc": "ML System Design",
     "title": "Key Focus Areas",
     "content": ". | Problem Formulation: Translating business metrics into ML objectives. | Data &amp; Feature Pipelines: Real-time vs. batch feature stores, handling data drift and skew. | Scalability &amp; Trade-offs: Latency, throughput, storage constraints, and cost optimization for inference. | . ",
-    "url": "/ML%20System%20Design/#key-focus-areas",
+    "url": "/aiml-0-to-100-easy/ML%20System%20Design/#key-focus-areas",
     
     "relUrl": "/ML%20System%20Design/#key-focus-areas"
   },"14": {
     "doc": "AIML(0-to-100)",
     "title": "AIML(0-to-100): AI &amp; ML Knowledge Base",
     "content": "Welcome to My AI &amp; ML Knowledge Base (aiml-0-to-100). You can explore notes organized by category, tracking concepts from foundations up to systems and frameworks. The goal is to enable rigorous first-principles thinking, clean formulations, and continuous technical sharpening. ",
-    "url": "/#aiml0-to-100-ai--ml-knowledge-base",
+    "url": "/aiml-0-to-100-easy/#aiml0-to-100-ai--ml-knowledge-base",
     
     "relUrl": "/#aiml0-to-100-ai--ml-knowledge-base"
   },"15": {
     "doc": "AIML(0-to-100)",
     "title": "🔬 Background &amp; Context (About Me)",
     "content": ". | Author: Ujjal Kumar Dutta • Website • GitHub | Industry Roles: Led Applied Science, ML Engineering Teams and initiatives for large-scale ML based production systems at Amazon, Myntra, Dolby. | Research Focus: Computer Vision, NLP, GenAI, Representation Learning, and Efficient Model Optimization (20+ top-tier publications across AAAI, CVPR, ECCV, NeurIPS). | Education: PhD &amp; MS from IIT Madras (Recipient of the IBM Best PhD Thesis Award). | . Note: Maintained for technical reference and study. Licensed under CC BY-NC 4.0. ",
-    "url": "/#-background--context-about-me",
+    "url": "/aiml-0-to-100-easy/#-background--context-about-me",
     
     "relUrl": "/#-background--context-about-me"
   },"16": {
     "doc": "AIML(0-to-100)",
     "title": "AIML(0-to-100)",
     "content": " ",
-    "url": "/",
+    "url": "/aiml-0-to-100-easy/",
     
     "relUrl": "/"
   }
