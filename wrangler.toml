@@ -1,0 +1,5 @@
+name = "aiml-0-to-100"
+compatibility_date = "2026-09-20"
+
+[assets]
+directory = "./_site"
