@@ -176,7 +176,7 @@
   },"25": {
     "doc": "Diving Deep into LLMs",
     "title": "Part 1: Pretraining &amp; Neural Network Architecture",
-    "content": ". ",
+    "content": " ",
     "url": "/aiml-0-to-100-easy/Natural%20Language%20Processing/llm_dive_deep.html#part-1-pretraining--neural-network-architecture",
     
     "relUrl": "/Natural%20Language%20Processing/llm_dive_deep.html#part-1-pretraining--neural-network-architecture"
@@ -225,7 +225,7 @@
   },"32": {
     "doc": "Diving Deep into LLMs",
     "title": "Part 2: Base Model Training &amp; Inference (GPT-2 &amp; Llama 3)",
-    "content": ". ",
+    "content": " ",
     "url": "/aiml-0-to-100-easy/Natural%20Language%20Processing/llm_dive_deep.html#part-2-base-model-training--inference-gpt-2--llama-3",
     
     "relUrl": "/Natural%20Language%20Processing/llm_dive_deep.html#part-2-base-model-training--inference-gpt-2--llama-3"
@@ -246,7 +246,7 @@
   },"35": {
     "doc": "Diving Deep into LLMs",
     "title": "Part 3: Post-Training &amp; Supervised Fine-Tuning (SFT)",
-    "content": ". ",
+    "content": " ",
     "url": "/aiml-0-to-100-easy/Natural%20Language%20Processing/llm_dive_deep.html#part-3-post-training--supervised-fine-tuning-sft",
     
     "relUrl": "/Natural%20Language%20Processing/llm_dive_deep.html#part-3-post-training--supervised-fine-tuning-sft"
@@ -274,7 +274,7 @@
   },"39": {
     "doc": "Diving Deep into LLMs",
     "title": "Part 4: LLM Psychology, Capabilities &amp; Constraints",
-    "content": ". ",
+    "content": " ",
     "url": "/aiml-0-to-100-easy/Natural%20Language%20Processing/llm_dive_deep.html#part-4-llm-psychology-capabilities--constraints",
     
     "relUrl": "/Natural%20Language%20Processing/llm_dive_deep.html#part-4-llm-psychology-capabilities--constraints"
@@ -323,7 +323,7 @@
   },"46": {
     "doc": "Diving Deep into LLMs",
     "title": "Part 5: Reinforcement Learning &amp; DeepSeek-R1",
-    "content": ". ",
+    "content": " ",
     "url": "/aiml-0-to-100-easy/Natural%20Language%20Processing/llm_dive_deep.html#part-5-reinforcement-learning--deepseek-r1",
     
     "relUrl": "/Natural%20Language%20Processing/llm_dive_deep.html#part-5-reinforcement-learning--deepseek-r1"
@@ -364,11 +364,11 @@
     "relUrl": "/Natural%20Language%20Processing/llm_dive_deep.html#rlhf-non-verifiable-domains"
   },"52": {
     "doc": "Diving Deep into LLMs",
-    "title": "Part 5: Ecosystem, Future Trends &amp; Summary",
-    "content": ". ",
-    "url": "/aiml-0-to-100-easy/Natural%20Language%20Processing/llm_dive_deep.html#part-5-ecosystem-future-trends--summary",
+    "title": "Part 6: Ecosystem, Future Trends &amp; Summary",
+    "content": " ",
+    "url": "/aiml-0-to-100-easy/Natural%20Language%20Processing/llm_dive_deep.html#part-6-ecosystem-future-trends--summary",
     
-    "relUrl": "/Natural%20Language%20Processing/llm_dive_deep.html#part-5-ecosystem-future-trends--summary"
+    "relUrl": "/Natural%20Language%20Processing/llm_dive_deep.html#part-6-ecosystem-future-trends--summary"
   },"53": {
     "doc": "Diving Deep into LLMs",
     "title": "Preview of Things to Come",
