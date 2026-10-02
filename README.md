@@ -21,6 +21,6 @@ A personal AI/ML knowledge base and digital garden. Use the quick pointers below
   * [Landing Page (index.md)](index.md) — The homepage of your digital garden.
 * **Core Themes & Topics**
   * [Theme Example (NLP)](Natural%20Language%20Processing/index.md) — Overview page for a specific domain module.
-  * [Topic Deep-Dive Example](Natural%20Language%20Processing/karpathy_llms_deep_dive.md) — Detailed note within a specific theme (e.g., Karpathy's LLM lecture).
+  * [Topic Deep-Dive Example](Natural%20Language%20Processing/llm_overview.md) — Detailed note within a specific theme (e.g., Overview on LLMs).
 * **Private Workspace**
   * [Private Notes & Blueprints](_private_notes/aiml_knowledge_base_hosting_blueprint.md) — Internal working notes kept out of public view.
