@@ -1,7 +1,7 @@
 {"0": {
     "doc": "Aider vs Cline",
     "title": "Aider vs. Cline: Technical Comparison &amp; Architectural Evaluation",
-    "content": "This document provides a technical blueprint and comparative analysis of Aider (https://github.com/Aider-AI/aider) and Cline (https://github.com/cline/cline), two top-tier, open-source (Apache-2.0) AI coding assistants operating on a “Bring Your Own Key” (BYOK) model. While both tools leverage frontier LLMs for code generation, they cater to distinct developer workflows, execution primitives, and repository topologies. ",
+    "content": "This document provides a technical blueprint and comparative analysis of Aider and Cline, two top-tier, open-source (Apache-2.0) AI coding assistants operating on a “Bring Your Own Key” (BYOK) model. While both tools leverage frontier LLMs for code generation, they cater to distinct developer workflows, execution primitives, and repository topologies. ",
     "url": "/aiml-0-to-100-easy/Tools/aider_vs_cline_high_level.html#aider-vs-cline-technical-comparison--architectural-evaluation",
     
     "relUrl": "/Tools/aider_vs_cline_high_level.html#aider-vs-cline-technical-comparison--architectural-evaluation"
